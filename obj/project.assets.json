@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\denis.postilniak\\OneDrive - Devox Software\\Desktop\\CLoud\\CloudTechnologies\\CloudTechnologiesTest\\CloudTechnologiesTest.csproj",
+      "projectUniqueName": "C:\\Users\\denis.postilniak\\OneDrive - Devox Software\\Desktop\\CLoud\\CloudTechnologies\\CloudTechnologiesTest.csproj",
       "projectName": "CloudTechnologiesTest",
-      "projectPath": "C:\\Users\\denis.postilniak\\OneDrive - Devox Software\\Desktop\\CLoud\\CloudTechnologies\\CloudTechnologiesTest\\CloudTechnologiesTest.csproj",
+      "projectPath": "C:\\Users\\denis.postilniak\\OneDrive - Devox Software\\Desktop\\CLoud\\CloudTechnologies\\CloudTechnologiesTest.csproj",
       "packagesPath": "C:\\Users\\denis.postilniak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\denis.postilniak\\OneDrive - Devox Software\\Desktop\\CLoud\\CloudTechnologies\\CloudTechnologiesTest\\obj\\",
+      "outputPath": "C:\\Users\\denis.postilniak\\OneDrive - Devox Software\\Desktop\\CLoud\\CloudTechnologies\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
